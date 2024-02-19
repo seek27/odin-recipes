@@ -1,1 +1,1 @@
-# odin-recipes
+Making recipe pages using just html to practice
